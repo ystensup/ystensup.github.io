@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ystensup.github.io/sitemap.html
+Sitemap: https://ystensup.github.io/app/sitemap.html
+Sitemap: https://ystensup.github.io/assets/sitemap.html
+Sitemap: https://ystensup.github.io/css/sitemap.html
+Sitemap: https://ystensup.github.io/includes/sitemap.html
+Sitemap: https://ystensup.github.io/item/sitemap.html
+Sitemap: https://ystensup.github.io/src/sitemap.html
